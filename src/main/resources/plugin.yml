@@ -1,0 +1,7 @@
+name: ToolsLib
+version: '${project.version}'
+main: com.github.toolslib.ToolsLib
+api-version: '1.13'
+authors: [ 3cxc ]
+description: 一个简易的插件开发库，方便作者进行插件开发
+website: https://github.com/3cxc/ToolsLib
